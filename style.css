@@ -1,0 +1,34 @@
+.header {
+    height: 100vh;
+    background-image: url(images/code3.jpg);
+    /* use a flexbox*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    margin-bottom: 30px;
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#projects_id {
+    background-image: url(images/code5.jpg);
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+.profeciency {
+    border-radius: 10%;
+    border-color: grey;
+    width: 50%;
+}
