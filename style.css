@@ -1,7 +1,7 @@
 .header {
     height: 100vh;
-    background-image: url(images/code5.jpg);
     /* use a flexbox*/
+    background-image: url(images/code5.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
